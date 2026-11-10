@@ -4689,7 +4689,7 @@ Your AI agent is already driving your terminal. The question is whether the tool
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -4768,7 +4768,6 @@ In modern cloud-native environments, platform engineering teams face a persisten
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -4914,30 +4913,12 @@ URL: https://meshery.io/blog/200-meshery-designs-on-artifacthub
 
 ---
 
-## /blog/2023/09/2023-9-2-meshery-badge-program
-
-URL: https://meshery.io/blog/2023/09/2023-9-2-meshery-badge-program
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/blog/2023/09/2023-9-2-meshery-badge-program/)
-
----
-
 ## /blog/2025-10-30-mesheryctl-e2e-introduction
 
 URL: https://meshery.io/blog/2025-10-30-mesheryctl-e2e-introduction
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/10/2025-10-30-mesehryctl-e2e-test-introduction/)
-
----
-
-## /blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace
-
-URL: https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
 ---
 
@@ -4976,7 +4957,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5130,7 +5111,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5155,7 +5136,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5634,7 +5615,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5997,7 +5978,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -6722,7 +6703,6 @@ If you are new to the Meshery ecosystem and want to create your own models, this
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -6967,7 +6947,6 @@ We’re thrilled to announce that Meshery has been selected as one of four CNCF 
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -7211,7 +7190,6 @@ On Friday, August 20, 2024, join us for a special enlightning session titled **I
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -7455,7 +7433,6 @@ As an extensible engineering platform, Meshery’s focus on flexibility and adap
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -7655,66 +7632,12 @@ URL: https://meshery.io/blog/validating-smi-conformance-with-meshery
 
 ---
 
-## /brand
-
-URL: https://meshery.io/brand
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/brand/)
-
----
-
-## /calendar
-
-URL: https://meshery.io/calendar
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/calendar/)
-
----
-
-## /catalog/designs
-
-URL: https://meshery.io/catalog/designs
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/catalog/designs/)
-
----
-
-## /catalog/webassembly
-
-URL: https://meshery.io/catalog/webassembly
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/catalog/webassembly/)
-
----
-
-## /charts
-
-URL: https://meshery.io/charts
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/charts/)
-
----
-
 ## /community/badges
 
 URL: https://meshery.io/community/badges
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/community/recognition/)
-
----
-
-## /community/certifications
-
-URL: https://meshery.io/community/certifications
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/certifications/)
 
 ---
 
@@ -7782,15 +7705,6 @@ Certification badges are part of Meshery’s broader [Recognition Program](https
 
 ---
 
-## /community/leaderboard
-
-URL: https://meshery.io/community/leaderboard
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/leaderboard/)
-
----
-
 ## Community Leaderboard
 
 URL: https://meshery.io/community/leaderboard/
@@ -7816,33 +7730,6 @@ Search leaderboard by username
 No activity for this period yet.
 
 Last updated: November 10, 2026
-
----
-
-## /community/meshmates
-
-URL: https://meshery.io/community/meshmates
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/meshmates/)
-
----
-
-## /community/newcomers
-
-URL: https://meshery.io/community/newcomers
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/newcomers/)
-
----
-
-## /community/recognition
-
-URL: https://meshery.io/community/recognition
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/recognition/)
 
 ---
 
@@ -7883,15 +7770,6 @@ URL: https://meshery.io/extensions/github-action-perf
 
 ---
 
-## /features
-
-URL: https://meshery.io/features
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/features/)
-
----
-
 ## Integrations
 
 URL: https://meshery.io/integrations
@@ -7927,24 +7805,6 @@ URL: https://meshery.io/newcomer
 
 ---
 
-## /newcomers
-
-URL: https://meshery.io/newcomers
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/newcomers/)
-
----
-
-## /service-mesh-interface
-
-URL: https://meshery.io/service-mesh-interface
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/service-mesh-interface/)
-
----
-
 ## /smi
 
 URL: https://meshery.io/smi
@@ -7954,39 +7814,12 @@ URL: https://meshery.io/smi
 
 ---
 
-## /subscribe
-
-URL: https://meshery.io/subscribe
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/subscribe/)
-
----
-
 ## /talks-and-presentations
 
 URL: https://meshery.io/talks-and-presentations
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/talks-and-trainings/)
-
----
-
-## /talks-and-trainings
-
-URL: https://meshery.io/talks-and-trainings
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/talks-and-trainings/)
-
----
-
-## /thank-you
-
-URL: https://meshery.io/thank-you
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/thank-you/)
 
 ---
 
@@ -77385,42 +77218,43 @@ Meshery is now a CNCF Incubating project.
 
 [&nbsp;](https://meshery.io/)
 
-Category: - [announcements (1)](https://meshery.io/category/announcements)
-- [announcements (5)](https://meshery.io/category/announcements)
-- [artifact-hub (2)](https://meshery.io/category/artifact-hub)
-- [cloud (1)](https://meshery.io/category/cloud)
-- [cloud-native (2)](https://meshery.io/category/cloud-native)
-- [cloudnativecon (1)](https://meshery.io/category/cloudnativecon)
-- [cncf (1)](https://meshery.io/category/cncf)
-- [collaboration (3)](https://meshery.io/category/collaboration)
-- [community (9)](https://meshery.io/category/community)
-- [continuous-integration (2)](https://meshery.io/category/continuous-integration)
-- [contributors (2)](https://meshery.io/category/contributors)
-- [designs (4)](https://meshery.io/category/designs)
-- [e2e-testing (1)](https://meshery.io/category/e2e-testing)
-- [events (2)](https://meshery.io/category/events)
-- [extensibility (3)](https://meshery.io/category/extensibility)
-- [extensions (2)](https://meshery.io/category/extensions)
-- [gitops (2)](https://meshery.io/category/gitops)
-- [governance (1)](https://meshery.io/category/governance)
-- [kubecon (4)](https://meshery.io/category/kubecon)
-- [kubernetes (1)](https://meshery.io/category/kubernetes)
-- [meshery (7)](https://meshery.io/category/meshery)
-- [mesheryctl (7)](https://meshery.io/category/mesheryctl)
-- [milestones (6)](https://meshery.io/category/milestones)
-- [models (2)](https://meshery.io/category/models)
-- [multi-tenancy (1)](https://meshery.io/category/multi-tenancy)
-- [open-source (7)](https://meshery.io/category/open-source)
-- [opensource (1)](https://meshery.io/category/opensource)
-- [performance (2)](https://meshery.io/category/performance)
-- [platform-engineering (3)](https://meshery.io/category/platform-engineering)
-- [playwright (1)](https://meshery.io/category/playwright)
-- [releases (6)](https://meshery.io/category/releases)
-- [security (1)](https://meshery.io/category/security)
-- [service-mesh (3)](https://meshery.io/category/service-mesh)
-- [specification (1)](https://meshery.io/category/specification)
-- [test (1)](https://meshery.io/category/test)
-- [workspaces (1)](https://meshery.io/category/workspaces)
+# Blog Categories
+
+- [announcements 5](https://meshery.io/blog/category/announcements/)
+- [artifact-hub 2](https://meshery.io/blog/category/artifact-hub/)
+- [cloud 1](https://meshery.io/blog/category/cloud/)
+- [cloud-native 2](https://meshery.io/blog/category/cloud-native/)
+- [cloudnativecon 1](https://meshery.io/blog/category/cloudnativecon/)
+- [cncf 1](https://meshery.io/blog/category/cncf/)
+- [collaboration 3](https://meshery.io/blog/category/collaboration/)
+- [community 9](https://meshery.io/blog/category/community/)
+- [continuous-integration 2](https://meshery.io/blog/category/continuous-integration/)
+- [contributors 2](https://meshery.io/blog/category/contributors/)
+- [designs 4](https://meshery.io/blog/category/designs/)
+- [e2e-testing 1](https://meshery.io/blog/category/e2e-testing/)
+- [events 2](https://meshery.io/blog/category/events/)
+- [extensibility 3](https://meshery.io/blog/category/extensibility/)
+- [extensions 2](https://meshery.io/blog/category/extensions/)
+- [gitops 2](https://meshery.io/blog/category/gitops/)
+- [governance 1](https://meshery.io/blog/category/governance/)
+- [kubecon 4](https://meshery.io/blog/category/kubecon/)
+- [kubernetes 1](https://meshery.io/blog/category/kubernetes/)
+- [meshery 7](https://meshery.io/blog/category/meshery/)
+- [mesheryctl 7](https://meshery.io/blog/category/mesheryctl/)
+- [milestones 6](https://meshery.io/blog/category/milestones/)
+- [models 2](https://meshery.io/blog/category/models/)
+- [multi-tenancy 1](https://meshery.io/blog/category/multi-tenancy/)
+- [open-source 7](https://meshery.io/blog/category/open-source/)
+- [opensource 1](https://meshery.io/blog/category/opensource/)
+- [performance 2](https://meshery.io/blog/category/performance/)
+- [platform-engineering 3](https://meshery.io/blog/category/platform-engineering/)
+- [playwright 1](https://meshery.io/blog/category/playwright/)
+- [releases 6](https://meshery.io/blog/category/releases/)
+- [security 1](https://meshery.io/blog/category/security/)
+- [service-mesh 3](https://meshery.io/blog/category/service-mesh/)
+- [specification 1](https://meshery.io/blog/category/specification/)
+- [test 1](https://meshery.io/blog/category/test/)
+- [workspaces 1](https://meshery.io/blog/category/workspaces/)
 
 ---
 
@@ -78757,7 +78591,7 @@ Meshery is now a CNCF Incubating project.
 
 ### Meshery has officially been accepted as a CNCF Incubating project! Read about our growth and join us at KubeCon + CloudNativeCon North America 2026.
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) Sangram Rath October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) Sangram Rath October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
